@@ -27,7 +27,6 @@ public class steps {
 		driver.manage().window().maximize();
 		driver.get("https://www.facebook.com/");
 
-		
 	    
 	}
 
@@ -88,11 +87,6 @@ public void getscenario(Scenario s)
 {
 	System.out.println(s.getName());
 }
-
-
-
-	
-
 
 
 }
